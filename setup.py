@@ -7,7 +7,7 @@ setup(
     author_email='bng3be@virginia.edu',
     packages=['info.py'],
     url = 'https://github.com/alseekford/M14_Challenge',
-    license='LICENSE.txt',
+    license='LICENSE',
     description='Package created for UVA MSDS DS5100 Module 14 In-Class Exercise.',
     long_description=open('README.md').read(),
 )
